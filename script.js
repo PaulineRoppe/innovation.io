@@ -1,11 +1,8 @@
-
-
-
 // import some polyfill to ensure everything works OK
 import "babel-polyfill"
 
 // import bootstrap's javascript part
-import $ from 'jquery';
+//import $ from 'jquery';
 import 'bootstrap';
 
 /*
@@ -13,4 +10,4 @@ import 'bootstrap';
 */
 
 
-$('#myModal').modal('show');
+/*$('#myModal').modal('show');*/
