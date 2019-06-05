@@ -1,6 +1,6 @@
 ## [Cliquez ici](https://paulineroppe.github.io/innovation.io/) pour afficher le site.
 
-#Technologies utilisées : 
+# Technologies utilisées : 
 - Bootstrap
 - Nunjucks
 - Babel
